@@ -86,7 +86,7 @@ Python script using Netmiko to SSH into Cisco devices and push standardized conf
 |Certification|Status|Date|
 |-|-|-|
 |Cisco Certified Network Associate (CCNA 200-301)|🔄 In Progress|September 2026|
-|Bachelor of Science in Network Technology|✅ Completed|\2020|
+|Bachelor of Science in Network Technology|✅ Completed| 2020|
 
 \---
 
