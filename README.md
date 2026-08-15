@@ -3,7 +3,7 @@
 **Name:** Abdullah Omer Hamza
 **Location:** Riyadh, Saudi Arabia
 **Background:** Bachelor's in Network Technology | Former Network Engineer
-**Current Status:** CCNA 200-301 in progress (exam targeted before end of September 2026)
+**Current Status:** CCNA 200-301 in progress (exam targeted before the end of September 2026)
 
 ---
 
@@ -20,7 +20,7 @@ Beyond passing the exam, the goal here is to keep a documented record of real, w
 I hold a Bachelor's degree in Network Technology and have hands-on experience configuring enterprise routers, switches, and firewalls. My background also includes experience in Governance, Risk & Compliance, which shapes how I think about network design — I try to build networks that are not just functional, but auditable and secure by design.
 
 - **Technical foundation:** Bachelor's in Network Technology + hands-on Network Engineer experience
-- **Compliance lens:** Familiarity with ISO 27001, NIST, and risk assessment frameworks
+- **Compliance lens:** Familiarity with ISO 31000:2018 ERM
 - **Languages:** Native Arabic, fluent English
 
 ---
