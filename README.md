@@ -77,7 +77,7 @@ VLAN segmentation with Router-on-a-Stick inter-VLAN routing, STP/RSTP root bridg
 | Item | Status | Date |
 |------|--------|------|
 | Cisco Certified Network Associate (CCNA 200-301) | 🔄 In Progress | Targeted before Sep 30, 2026 |
-| Bachelor of Science in Network Technology | ✅ Completed | 2020 |
+| Bachelor of Network Technology | ✅ Completed | 2020 |
 
 ---
 
