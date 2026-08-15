@@ -1,6 +1,6 @@
 # Week 4: NAT/PAT
 
-**Date:** [Start Date] - [End Date]
+**Date:** 14-Aug-2026 - 15-Aug-2026
 
 ---
 
@@ -200,4 +200,4 @@ icmp   203.0.113.20:9     192.168.1.10:9    ← PC0
 
 ---
 
-*Last updated: [Date]*
+*Last updated: 15-Aug-2026
