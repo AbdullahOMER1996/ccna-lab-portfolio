@@ -81,9 +81,6 @@ VLAN segmentation with Router-on-a-Stick inter-VLAN routing, STP/RSTP root bridg
 
 ---
 
-## Contact
-
-- **Email:** a.b.d.h1996@gmail.com
 
 ---
 
