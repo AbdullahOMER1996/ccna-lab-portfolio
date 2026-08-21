@@ -27,7 +27,7 @@ I hold a Bachelor's degree in Network Technology and have hands-on experience co
 | 2 | VLANs, Trunking, STP/RSTP, EtherChannel | ✅ Complete | [week-02](week-02-vlan-stp) |
 | 3 | OSPF Multi-Area, MD5 Auth, Break-and-Troubleshoot, EIGRP Comparison | ✅ Complete | [week-03](week-03-ospf-eigrp) |
 | 4 | NAT/PAT, IP Services (DHCP, DNS, NTP, Syslog, SNMP) | ✅ Complete | [week-04](week-04-nat-services) |
-| 5 | Security — ACLs, Port Security, DHCP Snooping, VPN Theory | ⏳ Planned | week-05 |
+| 5 | Security — ACLs, Port Security, DHCP Snooping, VPN Theory | 🔄 In Progress | [week-05](week-05-security) |
 | 6 | Automation — Python, Netmiko | ⏳ Planned | week-06 |
 | 7 | Practice Exams & Weak Area Review | ⏳ Planned | week-07 |
 | 8 | CCNA Exam | ⏳ Planned | — |
