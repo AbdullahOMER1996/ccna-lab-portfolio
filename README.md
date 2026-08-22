@@ -27,7 +27,7 @@ I hold a Bachelor's degree in Network Technology and have hands-on experience co
 | 2 | VLANs, Trunking, STP/RSTP, EtherChannel | ✅ Complete | [week-02](week-02-vlan-stp) |
 | 3 | OSPF Multi-Area, MD5 Auth, Break-and-Troubleshoot, EIGRP Comparison | ✅ Complete | [week-03](week-03-ospf-eigrp) |
 | 4 | NAT/PAT, IP Services (DHCP, DNS, NTP, Syslog, SNMP) | ✅ Complete | [week-04](week-04-nat-services) |
-| 5 | Security — ACLs, Port Security, DHCP Snooping, VPN Theory | 🔄 In Progress | [week-05](week-05-security) |
+| 5 | Security — ACLs, Port Security, DHCP Snooping, VPN Theory | ✅ Complete | [week-05](week-05-security) |
 | 6 | Automation — Python, Netmiko | ⏳ Planned | week-06 |
 | 7 | Practice Exams & Weak Area Review | ⏳ Planned | week-07 |
 | 8 | CCNA Exam | ⏳ Planned | — |
@@ -48,6 +48,10 @@ Each week folder contains:
 - **`README.md`** — What was built, what was learned, key commands used, and any faults diagnosed
 
 ## Highlighted Work
+
+### Security Fundamentals: ACLs, Port Security, DHCP Snooping (Week 5)
+
+Standard and Extended ACLs built and proven with before/after connectivity tests — including a Standard ACL blocking one host entirely and an Extended ACL blocking only Telnet while preserving ping to the same destination. Port Security configured with sticky MAC learning; deliberately triggered a violation to confirm err-disable behavior and manual recovery, then verified the original device remained the authorized MAC via the switch's MAC address table. DHCP Snooping lab pit a legitimate DHCP server against a rogue one on the same switch — snooping initially broke legitimate DHCP entirely, traced to Option 82 insertion conflicting with the simulated DHCP server, then resolved while keeping rogue-server blocking fully intact. Closed out with IPsec/VPN theory: the two-phase handshake, and why Diffie-Hellman (asymmetric) is used once to safely establish a shared secret before switching to fast symmetric encryption (AES) for the actual tunnel traffic. [View Week 5](week-05-security)
 
 ### NAT/PAT, DHCP, and Network Services with Documented Tooling Limits (Week 4)
 
@@ -70,4 +74,4 @@ VLAN segmentation with Router-on-a-Stick inter-VLAN routing, STP/RSTP root bridg
 
 ---
 
-*Last updated: August 2026*
+*Last updated: 22 Aug 2026*
